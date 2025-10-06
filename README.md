@@ -26,7 +26,6 @@ My goal is to become a skilled software engineer who can create meaningful impac
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizzfar&show_icons=true&theme=transparent&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizzfar&layout=compact&theme=transparent&hide_border=true" height="150" />
 </p>
 
